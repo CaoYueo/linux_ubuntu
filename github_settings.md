@@ -51,7 +51,7 @@ cd "库名" #进入仓库
 gedit test.md
 ```
 
-你可以选择在本地库内创建README.md，也可以在github网页的库内创建。README.md是用来描述库的，内容自定。
+你可以选择在本地库内创建README.md，也可以在github网页的库内创建。README.md是用来描述库的，内容自定。建议从本地创建README.md,防止出现一些不同布的问题。
 
 将库内文件加入到缓冲区
 
